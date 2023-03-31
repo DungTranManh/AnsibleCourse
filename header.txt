@@ -1,0 +1,19 @@
+1. YAML:
+    - Data type:
+        - key value pải
+        - array/list
+        - Dictionary/map
+        - Phân biệt array vs dictionary
+    - Trong 1 file .yaml hoặc .yml có thể có nhiều doccuments, nên các docs cách nhau bằng '---'
+    - Newline trong file .yaml: | và >
+
+2. Inventory
+    - Basic:
+        - formats: INI and YAML
+        - Group name
+        - hosts
+        - Default Group
+        - Host in multiple groups
+        - Grouping groups
+        - Adding ranges of hosts
+3. Playbook, Play, Task, module
